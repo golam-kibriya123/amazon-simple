@@ -1,0 +1,35 @@
+.header {
+    margin: 0;
+    height: 80px;
+    max-width: 1440px;
+    width: 100%;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.header img {
+    margin-left: 112px;
+}
+
+.header h2 {
+    margin: 0;
+}
+
+.nave-items {
+    margin-right: 40px;
+
+}
+
+.nave-items a {
+    text-decoration: none;
+    color: white;
+    margin-left: 32px;
+
+}
+
+.nave-items a:hover {
+    color: rgb(0, 255, 47);
+}
